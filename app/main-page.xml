@@ -8,13 +8,13 @@
     <StackLayout class="p-20">
 
         <FlexboxLayout class="">
-            <Image src="https://placehold.it/40x40" style="width:40;height:40" />
+            <Image src="https://placehold.it/40x40" />
             <Label textWrap="true" text="a b c d e f g h i j k l m n o p q r s t u v w x" />
         </FlexboxLayout>
 
         <FlexboxLayout class="">
-            <Image src="https://placehold.it/40x40" style="width:40;height:40" />
-            <Label textWrap="true" text="a b c d e f g h i j k l m n o p q r s t u v w x y z" />
+            <Image src="https://placehold.it/40x40" />
+            <Label textWrap="true" text="a b c d e f g h i j k l m n o p q r s t u v w x y z 1" />
         </FlexboxLayout>
 
     </StackLayout>
